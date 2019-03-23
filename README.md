@@ -1,2 +1,2 @@
-# JPEG_Impression
-A JEPG impression tool using QT
+# JPEG_Compression
+A JPEG Compression tool based on QT
